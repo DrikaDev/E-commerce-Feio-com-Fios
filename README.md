@@ -12,5 +12,4 @@ E-comerce da "lojinha" Feito com Fios desenvolvido com os seguintes itens:
 -Formulário para coletar cadastro\
 -Rodapé com a frase criado por seunome
 
-=> Feito para Desktop e Mobile\
-=> Infelizmente o botão Menu ainda não funciona mas estarei trabalhando nisso!
+=> Feito para Desktop 💻 e Mobile 📱
