@@ -291,10 +291,10 @@ body{
     .Menu_Opcoes ul{
         display: block;
         position: absolute;
-        width: 20%;
-        height: 0px;
-        top: 60px;
-        right: 0;
+        width: 40%;
+        height: 0;
+        top: 75px;
+        right: 10px;
         background: white;
         border-radius: 10px;
         transition: .6s;
@@ -304,7 +304,7 @@ body{
     }
 
     #nav.active #menu{
-        height: 75vh;
+        height: 38vh;
         visibility: visible;
         overflow-y: auto;
     }
@@ -392,13 +392,13 @@ body{
         padding: 3px;
     }
     
-    .Menu_Opcoes ul{
+   .Menu_Opcoes ul{
         display: block;
         position: absolute;
-        width: 20%;
-        height: 0px;
-        top: 60px;
-        right: 0;
+        width: 40%;
+        height: 0;
+        top: 75px;
+        right: 10px;
         background: white;
         border-radius: 10px;
         transition: .6s;
@@ -408,7 +408,7 @@ body{
     }
 
     #nav.active #menu{
-        height: 75vh;
+        height: 38vh;
         visibility: visible;
         overflow-y: auto;
     }
