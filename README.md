@@ -13,3 +13,5 @@ E-comerce da "lojinha" Feito com Fios desenvolvido com os seguintes itens:
 -Rodapé com a frase criado por seunome
 
 => Feito para Desktop 💻 e Mobile 📱
+
+![LandingPage](https://user-images.githubusercontent.com/102387476/183761484-d7a20fc3-2096-481e-9176-7b66ba11322d.jpg)
