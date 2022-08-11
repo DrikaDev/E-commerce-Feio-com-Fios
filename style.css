@@ -86,7 +86,7 @@ body{
 }
 
 .Menu_Opcoes a:hover{
-    border-bottom: 5px solid var(--cor-rosa);
+    text-decoration: underline var(--cor-rosa);
     cursor: pointer;
 }
 
